@@ -16,12 +16,12 @@
 
 ## 🎯 What You Unlock
 
-    🎬 Trapcode Suite — Particle simulations & motion graphics  
-    🎨 Magic Bullet Suite — Color grading and finishing  
-    💡 Universe — Transitions and effects  
-    🧠 VFX Suite — Compositing, tracking, cleanup  
-    🔌 PluralEyes — Audio/video sync  
-    🔐 No login, no Maxon App, no online activation needed
+🎬 Trapcode Suite — Particle simulations & motion graphics  
+🎨 Magic Bullet Suite — Color grading and finishing  
+💡 Universe — Transitions and effects  
+🧠 VFX Suite — Compositing, tracking, cleanup  
+🔌 PluralEyes — Audio/video sync  
+🔐 No login, no Maxon App, no online activation needed
 
 ---
 
